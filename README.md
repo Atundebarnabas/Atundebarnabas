@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atundebarnabas
-- 👀 I’m interested in ... Sodtware Development
+- 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... Php and Mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... atundebarnabas@gmail.com
